@@ -1,0 +1,5 @@
+*.root
+*.o
+compiledThreads
+*.log
+*.condorlog
