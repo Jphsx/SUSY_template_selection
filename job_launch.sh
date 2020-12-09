@@ -78,6 +78,19 @@ LIST="TChiWZ_ZToLL"
 TREE="SMS_300_270"
 ./runmyanalysis.sh ${LIST} ${MACRO} ${TREE} ${TREE}
 date
+LIST="TChiWZ_ZToLL"
+TREE="SMS_425_405"
+./runmyanalysis.sh ${LIST} ${MACRO} ${TREE} ${TREE}
+date
+
+LIST="TChiWZ_ZToLL"
+TREE="SMS_325_318"
+./runmyanalysis.sh ${LIST} ${MACRO} ${TREE} ${TREE}
+date
+LIST="TSlepSlep"
+TREE="SMS_175_155"
+./runmyanalysis.sh ${LIST} ${MACRO} ${TREE} ${TREE}
+date
 LIST="TSlepSlep"
 TREE="SMS_125_120"
 ./runmyanalysis.sh ${LIST} ${MACRO} ${TREE} ${TREE}
@@ -86,6 +99,20 @@ LIST="T2bW"
 TREE="SMS_300_270"
 ./runmyanalysis.sh ${LIST} ${MACRO} ${TREE} ${TREE}
 date
+LIST="T2bW"
+TREE="SMS_425_415"
+./runmyanalysis.sh ${LIST} ${MACRO} ${TREE} ${TREE}
+date
+LIST="T2bW"
+TREE="SMS_526_516"
+./runmyanalysis.sh ${LIST} ${MACRO} ${TREE} ${TREE}
+date
+LIST="T2bW"
+TREE="SMS_526_505"
+./runmyanalysis.sh ${LIST} ${MACRO} ${TREE} ${TREE}
+date
+
+
 
 date
 
